@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngzone-demo"
+    }
+  },
+  "defaultProject": "ngzone-demo",
+  "cli": {
+    "analytics": "f328258f-7c5a-404c-9ccb-7b37b27f6a23"
+  }
 }
